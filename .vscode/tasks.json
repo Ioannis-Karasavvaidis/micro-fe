@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "command": "npm",
+            "isShellCommand": true,
+            "showOutput": "always",
+            "suppressTaskName": true,
+            "tasks": [
+                {
+                    "args": [
+                        "run",
+                        "build"
+                    ],
+                    "isBuildCommand": true,
+                    "taskName": "build"
+                }
+            ],
+            "version": "0.1.0"
+        }
+    ],
+    "version": "0.2.0"
+}
