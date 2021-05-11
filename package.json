@@ -61,7 +61,7 @@
     "eslint-plugin-react-hooks": "^1.7.0",
     "isomorphic-fetch": "^2.2.1",
     "jsinspect": "^0.12.7",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
     "prettier-eslint": "^9.0.1",
